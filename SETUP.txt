@@ -1,0 +1,8 @@
+1. Generate project with libGDX:
+
+Advanced > Generate IntellijIDEA project
+
+2. Use desktop config for test
+In run configs : 
+select desktop classpath desktop launcher main class, android/assets working directory
+
